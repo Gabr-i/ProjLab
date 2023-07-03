@@ -3,8 +3,7 @@
 Játék
 A feladat egy olyan számítógépes játék készítése, amelyben a játékosok egymással versenyeznek az első helyért. A történet egy pusztító biológiai katasztrófa után játszódik, amelyben mindenki elvesztette a látását. A városban virológusok kóborolnak, akik a gyógymódot keresik. A játékosok feladata a gyógymód megtalálása a virológusok irányításával. 
 
-A játékosok virológusokat irányítanak. A játékosok felváltva irányíthatják a saját virológusu-
-kat, körönként egyszer mozoghatnak. A pálya különböző típusú mezőkből áll össze. 
+A játékosok virológusokat irányítanak. A játékosok felváltva irányíthatják a saját virológusukat, körönként egyszer mozoghatnak. A pálya különböző típusú mezőkből áll össze. 
 A mezők típusai lehetnek: szabad terület, laboratórium, óvóhely és raktár.
 A raktár típusú mezőkön találhatóak anyagok, amelyek vagy aminosavak vagy nukleotidok. 
 Ezeket a játékos a mezőre lépéssel automatikusan megszerzi, viszont a játékosnál egyszerre csak 3 darab anyag lehet. A játékos ettől több anyagot nem birtokolhat.
